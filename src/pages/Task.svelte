@@ -68,7 +68,7 @@
 			bind:paused={paused}
 			ratingType={ratingType}>
 		</RatingBox>
-		<h2 style="text-align:center">Please rate how <strong>{ratingType}</strong> you feel</h2>
+		<h2 style="text-align:center">Please rate how <strong>{ratingType}</strong> you perceive the characters to be</h2>
 	</div>
 </main>
 
